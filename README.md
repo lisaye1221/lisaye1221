@@ -13,7 +13,6 @@ I'm Lisa, an aspiring software engineer
 ### You can find here:
 
 - Previous personal/school projects
-- My leetcode solutions
 
 
 <!--
